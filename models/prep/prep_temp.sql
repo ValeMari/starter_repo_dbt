@@ -9,4 +9,4 @@ add_weekday AS (
     FROM temp_daily
 )
 SELECT *
-FROM add_weekday;
+FROM add_weekday
