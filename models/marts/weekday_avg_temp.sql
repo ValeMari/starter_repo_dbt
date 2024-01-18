@@ -9,4 +9,4 @@ WITH tot_avg_month AS (
 )
 
 SELECT *
-FROM total_avg_month
+FROM tot_avg_month
